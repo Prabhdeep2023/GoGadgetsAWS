@@ -11,7 +11,7 @@ var mysql = require('mysql2');
 
 // production server
 var config = {
-    host: 'awsmysqldb.csrznyoqg9ee.ap-southeast-2.rds.amazonaws.com',
+    host: 'gogadgetsdbserver.csrznyoqg9ee.ap-southeast-2.rds.amazonaws.com',
     user: 'dbuser',
     password: 'Password123!',
     database: 'astore'
